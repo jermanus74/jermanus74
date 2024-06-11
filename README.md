@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jermanus
 - 👀 I’m interested in playing basketball and programming.
-- 🌱 I’m currently learning html,css and javascript
+- 🌱 I’m currently learning html,css and javascript. Also,recently I have gained knowledge on python  and its frame work( django)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:jermanuspeter@gmail.com
 
