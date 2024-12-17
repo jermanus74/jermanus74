@@ -103,7 +103,7 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jermanus74&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jermanus74&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jermanus74&" alt="GitHub Streak Stats" />
+  
 </p>
-<p align="center">
-  <img src="[<YOUR_GIF_LINK>](https://imgur.com/a/YG0c7r6)" alt="Coding GIF" width="400" />
-</p>
+
