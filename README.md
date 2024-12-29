@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Django, C++**  
 - 🤝 I’m looking for help with **Machine Learning**  
 - 💬 Ask me about **Web Development and Web Design Strategies**  
-- 📫 How to reach me: **jermanuspeter@gmsil.com**
+- 📫 How to reach me: **jermanuspeter@gmail.com**
 
 ---
 
